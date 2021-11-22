@@ -1,7 +1,6 @@
 package kitchenpos.domain;
 
 import static org.assertj.core.api.Assertions.assertThatThrownBy;
-import static org.junit.jupiter.api.Assertions.*;
 
 import kitchenpos.exception.InvalidPriceException;
 import org.junit.jupiter.api.DisplayName;

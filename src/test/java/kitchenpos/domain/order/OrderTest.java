@@ -1,7 +1,6 @@
 package kitchenpos.domain.order;
 
 import static org.assertj.core.api.Assertions.assertThatThrownBy;
-import static org.junit.jupiter.api.Assertions.*;
 
 import java.util.Collections;
 import kitchenpos.exception.OrderEmptyException;
